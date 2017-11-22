@@ -1,2 +1,3 @@
 # feature_pre_processing
-data reformat and feature pre-processing with pandas
+some pandas usage
+for data reformat and feature pre-processing
